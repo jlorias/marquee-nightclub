@@ -1,0 +1,121 @@
+body {
+  font-size: 12px;
+  color: #fff;
+  background-color: #1c1c1c;
+}
+
+.ui.borderless.top.menu {
+  box-shadow: none;
+  background-color: #250a33;
+  margin-bottom: 0px;
+}
+
+.ui.borderless.top.menu a{
+  color: #fff;
+  font-size: 13px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.marquee-background {
+  background: url("https://urtao.com/imateq/uploads/3601327489/1600SC0/3605179.jpg") no-repeat center center fixed;
+  background-size: cover;
+  height: 500px;
+}
+
+.ui.borderless.menu {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.ui.borderless.menu .fixed.right.item {
+  color: #fff;
+  font-size: 13px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.ui.borderless.menu .fixed.item{
+  color: #fff;
+  font-size: 13px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.marquee-background img{
+  height: 15%;
+  width: 15%;
+}
+
+.ui.centered.container {
+  text-align: center;
+  margin-top: 280px;
+
+}
+.ui.centered.container p {
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+  font-size: 29px;
+  text-shadow: 2px 2px 4px #000000;
+}
+.ui.centered.container .ui.centered.button {
+  padding: 1em 10px;
+  width: 300px;
+  max-width: 100%;
+  margin-bottom: 1em;
+  background-color: transparent;
+  border: solid #fff 2px;
+  border-radius: 0;
+  color: #fff;
+  font-size: 14px;
+  font-family: 'Roboto', sans-serif;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+.ui.four.column.grid {
+  background-color: #1c1c1c;
+  padding:55px;
+}
+
+.ui.container {
+  margin-top: 50px;
+}
+
+.ui.container .ui.stacked.segments {
+  border: none;
+  box-shadow: none;
+}
+
+.ui.container .ui.segment {
+  border: none;
+  box-shadow: none;
+}
+
+.ui.fluid.two.column.grid {
+  background-color: #181818;
+}
+
+.ui.fluid.two.column.grid .two.column.row {
+  margin: 50px 30px;
+  color: #b8b8b8;
+  font-family: 'Roboto', sans-serif;
+}
+
+.ui.fluid.two.column.grid .two.column.row h2 {
+  color: #b8b8b8;
+  font-family: 'Roboto', sans-serif;
+}
+
+.ui.fluid.two.column.grid .ui.centered.button {
+  background-color: transparent;
+  border: solid #fff 2px;
+  border-radius: 0;
+  color: #b8b8b8;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+}
+
+.footer-background .item {
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  margin: 15px 10px;
+
+}
+
